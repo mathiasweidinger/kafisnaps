@@ -1,2 +1,2 @@
-# kofisnaps
+# kafisnaps
 A home for my photography
